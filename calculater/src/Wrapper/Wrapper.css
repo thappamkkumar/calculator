@@ -1,9 +1,0 @@
-.container
-{
-	width:400px;
-	height:auto;
-	border-radius:10px;
-	background-color:rgba(150,150,150,1);
-	padding-left:10px; padding-right:10px; padding-top:10px; padding-bottom:10px;
-	outline:5px solid rgba(150,150,150,1);
-}
